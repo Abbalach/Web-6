@@ -1,0 +1,50 @@
+h1
+{
+    width: 522px;
+    height: 112px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 56px;
+
+    color: #2C1500;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+p
+{
+    width: 506.69px;
+    height: 140px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+
+    color: #2C1500;
+    opacity: 0.8;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+h2
+{
+    position: absolute;
+    left: 15px;
+    top: 472.88px;
+}
+
+h3
+{
+    position: absolute;
+    left: 798.52px;
+    top: 65px;
+}
